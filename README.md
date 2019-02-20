@@ -19,4 +19,4 @@ No prompt de comando ou no Anaconda prompt, execute o comando:
 
 E navegue manualmente até o diretório com o arquivo `.ipybnb` para executá-lo.
 
-Acesso direto ao Notebook Jupyter: 
+## [Acesso direto ao Notebook Jupyter](https://github.com/lucasalmeiidaa/Desafio-Bemol/blob/master/Desafio%232/solu%C3%A7%C3%A3o_desafio.ipynb) 
